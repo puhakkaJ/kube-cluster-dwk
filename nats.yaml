@@ -23,4 +23,3 @@ spec:
         name: nats
         namespace: flux-system
       interval: 1m
-      
